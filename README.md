@@ -1,4 +1,4 @@
-## React Query
+# React Query
 
 React Query adalah sebuah library yang memudahkan kita dalam melakukan data fetching. Banyak hal-hal menarik yang ditawarkan React Query. 
 
